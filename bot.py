@@ -93,7 +93,17 @@ class Bot(Client):
             for message in messages:
                 yield message
                 current += 1
+import os
+.........
+#end your code like this: 
+#give double underscores ( _ )
+#before and after name & main
+#see above sol photo 
 
+if name == 'main': 
+    port = int(os.environ.get('PORT', 5000))
+    app = Bot()
+    app.run(host='0.0.0.0', port=port)
 
 app = Bot()
 app.run()
