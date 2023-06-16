@@ -94,7 +94,7 @@ class Bot(Client):
                 yield message
                 current += 1
 import os
-.........
+
 #end your code like this: 
 #give double underscores ( _ )
 #before and after name & main
