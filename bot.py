@@ -104,10 +104,6 @@ class Bot(Client):
 #before and after name & main
 #see above sol photo
 
-if name == 'main':
-  port = int(os.environ.get('PORT', 5000))
-  app = Bot()
-  app.run(host='0.0.0.0', port=port)
 
 app = Bot()
 app.run()
