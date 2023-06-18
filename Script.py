@@ -28,7 +28,7 @@ Here is the help for my COMMANDS."""
 - Source - https://telegram.me/ultroidofficial  
 
 <b>DEVS:</b>
-- <a href=https://t.me/LazyDeveloper>LazyDeveloper</a>"""
+- <a href=https://telegram.me/ultroidofficial>Ultroid</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and LazyPriness will respond whenever that keyword hits the message
